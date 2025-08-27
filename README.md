@@ -2,6 +2,8 @@
   
   Using:
 ```
+#include "keysConv.h"
+
 KeysConvector kConv;
 kConv.QtoSys(Qt::Key::Key_F1);
 ```
